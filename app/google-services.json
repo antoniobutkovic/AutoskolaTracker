@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "588184945079",
+    "firebase_url": "https://autoskolatracker.firebaseio.com",
+    "project_id": "autoskolatracker",
+    "storage_bucket": "autoskolatracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588184945079:android:3445f7bcc32da2a6",
+        "android_client_info": {
+          "package_name": "com.example.toni.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588184945079-ckqg6sffrnsj7mu85dcmf0dhf9r0gu2r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.toni.myapplication",
+            "certificate_hash": "1b07ef21f07e1c4a802ba2335f36342c45bd0c33"
+          }
+        },
+        {
+          "client_id": "588184945079-tddcc9fo3dsrbpifurh2vg7itj57ljso.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX2sLqK7xPf-pbhwgfiId0IWul2uMy1rk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588184945079-tddcc9fo3dsrbpifurh2vg7itj57ljso.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
